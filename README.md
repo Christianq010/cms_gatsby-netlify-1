@@ -43,6 +43,10 @@ $ npm run serve
 ### Setting up the CMS
 Follow the [Netlify CMS Quick Start Guide](https://www.netlifycms.org/docs/quick-start/#authentication) to set up authentication, and hosting.
 
+Setup repository on Netlify - https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/
+
+
+
 ## Debugging
 Windows users might encounter ```node-gyp``` errors when trying to npm install.
 To resolve, make sure that you have both Python 2.7 and the Visual C++ build environment installed.
